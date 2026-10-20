@@ -1,0 +1,5 @@
+# Run folders (outputs/<timestamp>/) are ignored; files placed directly in
+# outputs/ are tracked.
+outputs/*/
+__pycache__/
+*.py[cod]
